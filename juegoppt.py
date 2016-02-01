@@ -22,12 +22,12 @@ while True:
     #print "Computadora elijio %s." % pc
     if x == pc :
         print "\nEmpate."
-    elif x == "piedra" and pc == "tijera":
+    elif x == "piedra" and pc == "tijera" :
         print "\nGanaste!! :D"
-    elif x == "papel" and pc == "piedra":
+    elif x == "papel" and pc == "piedra" :
         print "\nGanaste!! :D"
-    elif x == "tijera" and pc == "papel":
+    elif x == "tijera" and pc == "papel" :
         print "\nGanaste!! :D"
-    else:
+    else :
         print "Perdiste. XD :P :| \n{} gana {} \n".format(pc, x)
     print sus
