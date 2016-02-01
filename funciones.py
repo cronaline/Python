@@ -1,0 +1,7 @@
+print len("Hola Mundo")
+print len("Hola Planeta Tierra")
+print len([5,6,7,8,9,0,1])
+print len([5,6,7,8,9,0,1,2,3,4,5])
+print len(("sfa", "laf"))
+print len(range(10))
+print len(range(100))
